@@ -1,0 +1,8 @@
+{
+  "name": "node-iohid",
+  "version": "0.0.0",
+  "author": "Adam Malcontenti-Wilson <adman.com@gmail.com>",
+  "description": "node.js bindings for IOKit HID Manager APIs",
+  "license": "MIT",
+  "main": "./lib/iohid.js"
+}
